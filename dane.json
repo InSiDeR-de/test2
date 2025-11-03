@@ -1,0 +1,21 @@
+{
+	"echo": {
+		"cena": 2100,
+		"ocena": "dobry",
+		"jakosc": 1.5,
+		"warto": false
+	},
+	"home": {
+		"cena": 2500,
+		"ocena": "sredni",
+		"jakosc": 5.6,
+		"warto": false
+
+	},
+	"homepod": {
+		"cena": 3200,
+		"ocena": "super",
+		"jakosc": 8.2,
+		"warto": false
+	}
+}
