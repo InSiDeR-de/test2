@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dane>
+	<element typ="assistant">
+		<nazwa>Amazon Echo</nazwa>
+		<cena>1500</cena>
+		<ocena>8</ocena>
+		<jakosc>1</jakosc>
+	</element>
+	<element typ="assistant">
+		<nazwa>Google Home</nazwa>
+		<cena>500</cena>
+		<ocena>6</ocena>
+		<jakosc>2</jakosc>
+	</element>
+	<element typ="assistant">
+		<nazwa>Apple HomePad</nazwa>
+		<cena>2500</cena>
+		<ocena>10</ocena>
+		<jakosc>9</jakosc>
+	</element>
+</dane>
