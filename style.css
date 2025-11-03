@@ -153,4 +153,45 @@ main{
      width: 50px;
      height: 30px;
  }
+
+ main{
+    height: 800px;
+}
+
+#lewa{
+    width: 40%;
+    float: left;
+    height: 800px;
+}
+
+
+#prawa{
+    width: 40%;
+    float: left;
+    height: 800px;
+
+}
+
+#mid{
+    width: 20%;
+    float: left;
+    height: 800px;
+}
+
+
+#names li{
+    border: solid 1px green;
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px;
+}
+
+#names{
+    margin-bottom: 20px;
+}
+
+#links li{
+    text-decoration: none;
+    font-size: 20px;
+}
 /*-------*/
