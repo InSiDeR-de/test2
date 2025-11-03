@@ -3,24 +3,65 @@
     margin: 0;
     background: #f9f9f9;
 }
+body {
+    line-height: 1.5;
+}
+
 /*Dawid Piechura*/
 .nav {
     text-align: center;
 
 }
 
-.nav a{
+.nav a {
     text-decoration: none;
     padding: 10px;
     background-color: #eee;
     color: #333;
 }
-header h1{
+
+header h1 {
     text-align: center;
     margin-top: 1cm;
     margin-bottom: 1cm;
     color: green;
 }
+
+.intro {
+    width: 100%;
+    text-align: justify;
+    font-style: italic;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+.kolumny {
+    display: flex;
+    gap: 20px;
+}
+
+.col {
+    flex: 1;
+    background: #fff;
+    padding: 12px;
+    border-radius: 6px;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.03) inset;
+}
+
+@media (max-width: 1000px){
+    .kolumny {
+        flex-direction: column;
+    }
+}
+
+.sources a {
+    color: #333;
+}
+
+.sources a:hover {
+    background-color: blue;
+}
+
 /*-------*/
 
 /*Dawid Kulas*/
