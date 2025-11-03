@@ -25,6 +25,17 @@ header h1{
 
 /*Dawid Kulas*/
 
+body > main > div > a {
+	margin: 1cm 0 1cm 0;
+	width: 500px;
+	display: block;
+}
+
+body > main > div > a >img {
+	border: 2px black solid;
+}
+
+
 /*-------*/
 
 /*Adam Obrzut*/
