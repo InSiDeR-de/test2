@@ -25,6 +25,29 @@ header h1{
 
 /*Dawid Kulas*/
 
+body > main {
+	text-align: center;
+}
+
+body > main > table > tr > th,td {
+	boder: 1px solid black;
+}
+
+body > main > table > tr > th {
+	background-color: black;
+	color: white;
+	padding: 2px;
+}
+
+body > main > div > a {
+	margin: 10px 0 10px 0;
+	display: block;
+	font-size: 20px;
+	height: 25px;
+	width: 50px;
+	border: 2px black dotted;
+}
+
 /*-------*/
 
 /*Adam Obrzut*/
