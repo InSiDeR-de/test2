@@ -28,16 +28,20 @@ header h1{
 body > main {
 	text-align: center;
 }
+table {
+    width: 100%;
+    border-collapse: collapse;  
+}
+table th {
+    background-color: black;
+    color: white;
+    padding: 2px;
+}
+table tr,th,td {
 
-body > main > table > tr > th,td {
-	boder: 1px solid black;
+	border: 1px solid black;
 }
 
-body > main > table > tr > th {
-	background-color: black;
-	color: white;
-	padding: 2px;
-}
 
 body > main > div > a {
 	margin: 10px 0 10px 0;
