@@ -29,4 +29,50 @@ header h1{
 
 /*Adam Obrzut*/
 
-/*-------*/
+main{
+   width: 100%;
+   height: 800px;
+}
+
+#lewa{
+    width: 40%;
+    height: 800px;
+    float: left;
+}
+
+#mid{
+    width: 20%;
+    height: 800px;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+
+#prawa{
+    width: 40%;
+    height: 800px;
+    float: left;
+}
+
+label{
+    font-size: 20px;
+    color: #4e4e4e;
+}
+
+input{
+    margin: 15px;
+}
+
+#name, #email, #software, #city{
+    background-color: blue;
+    color: #f9f9f9;
+}
+
+#zapisz,#anuluj{
+    background-color: orange;
+    color: #f9f9f9;
+    margin: 1cm;
+    width: 50px;
+    height: 30px;
+}
+
